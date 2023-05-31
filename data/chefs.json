@@ -1,0 +1,325 @@
+[
+    {
+        "id": 1,
+        "name": "Rossi, Giovanni",
+        "description": "Chef Giovanni Rossi is a specialist in Italian cuisine with over a decade of experience in the culinary industry.",
+        "chef_img_url": "https://plus.unsplash.com/premium_photo-1673830185871-49bb8d6a3d09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=80",
+        "years_of_experience": 10,
+        "likes": 5000,
+        "number_of_recipes": 30,
+        "recipes": [
+            {
+                "name": "Pasta Carbonara",
+                "origin": "Italy",
+                "description": "Classic Roman pasta dish with bacon, eggs, and cheese",
+                "img_url": "https://images.unsplash.com/photo-1625938393850-10f1f23de467?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
+                "ratings": 5,
+                "method": "This a classic dish that hails from the town of Amatrice in Italy & is made with a tomato-based sauce, pancetta or guanciale, and pecorino cheese. To start, cook the pasta in salted boiling water until al dente. In a separate pan, cook the pancetta or guanciale until crispy and then add chopped onions and garlic. Once the onions are translucent, add canned tomatoes and let the sauce simmer for 15-20 minutes. Add the cooked pasta to the sauce and mix well. Serve with grated pecorino cheese.",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "Parmesan cheese"
+                ]
+            },
+            {
+                "name": "Margherita Pizza",
+                "origin": "Italy",
+                "description": "Traditional Neapolitan pizza with tomato sauce, mozzarella, and basil",
+                "img_url": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+                "ratings": 4.5,
+                "method": "This is a vegetarian twist on traditional meatballs that is bursting with flavor. To make the meatballs, roast eggplant in the oven until tender, then mash it with breadcrumbs, parmesan cheese, egg, and seasonings. Form the mixture into balls and fry them in a pan until golden brown. Serve the eggplant meatballs with marinara sauce and fresh basil.",
+                "ingredients": [
+                    "pizza dough",
+                    "tomato sauce",
+                    "mozzarella cheese",
+                    "fresh basil"
+                ]
+            },
+            {
+                "name": "Tiramisu",
+                "origin": "Italy",
+                "description": "Classic Italian dessert with layers of ladyfingers, espresso, and mascarpone cheese",
+                "img_url": "https://images.unsplash.com/photo-1602253057119-44d745d9b860?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1026&q=80",
+                "ratings": 5,
+                "method": "This is a delicious and simple Italian bread that is perfect for snacking or as an accompaniment to a meal. To make the focaccia, mix flour, yeast, salt, and water in a bowl until a dough forms. Knead the dough for 10-15 minutes until it is smooth and elastic. Let the dough rise for 1-2 hours in a warm place. Once it has risen, shape the dough into a large circle and top with sliced tomatoes, olives, and herbs. Bake the focaccia in the oven at 400°F for 20-25 minutes until golden brown. In a separate pan, cook the pancetta or guanciale until crispy and then add chopped onions and garlic.",
+                "ingredients": [
+                    "ladyfingers",
+                    "espresso",
+                    "mascarpone cheese",
+                    "cocoa powder"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bianchi, Francesca",
+        "description": "Chef Francesca Bianchi specializes in Sicilian cuisine and has been working in the culinary industry for over 15 years.",
+        "chef_img_url": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "years_of_experience": 15,
+        "likes": 8000,
+        "number_of_recipes": 25,
+        "recipes": [
+            {
+                "name": "Pasta alla Norma",
+                "origin": "Italy",
+                "description": "Sicilian pasta dish with eggplant, tomato sauce, and ricotta cheese",
+                "img_url": "https://images.unsplash.com/photo-1674456720401-1557c76bf72c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ratings": 4.5,
+                "method": "This is a vegetarian twist on traditional meatballs that is bursting with flavor. To make the meatballs, roast eggplant in the oven until tender, then mash it with breadcrumbs, parmesan cheese, egg, and seasonings. Form the mixture into balls and fry them in a pan until golden brown. Once the onions are translucent, add canned tomatoes and let the sauce simmer for 15-20 minutes. Serve the eggplant meatballs with marinara sauce and fresh basil.",
+                "ingredients": [
+                    "spaghetti",
+                    "eggplant",
+                    "tomato sauce",
+                    "ricotta cheese"
+                ]
+            },
+            {
+                "name": "Arancini",
+                "origin": "Italy",
+                "description": "Sicilian fried rice balls filled with meat, peas, and tomato sauce",
+                "img_url": "https://images.unsplash.com/photo-1587913956756-4fcf4833241d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "ratings": 4.8,
+                "method": "This is a traditional meatballs and mashroom dish that is bursting with flavor. To make the meatballs, roast eggplant in the oven until tender, then mash it with breadcrumbs, parmesan cheese, egg, and seasonings. Form the mixture into balls and fry them in a pan until golden brown. Serve with tomato-based sauce, pancetta or guanciale, and pecorino cheese.",
+                "ingredients": [
+                    "rice",
+                    "ground beef",
+                    "peas",
+                    "tomato sauce"
+                ]
+            },
+            {
+                "name": "Cannoli",
+                "origin": "Italy",
+                "description": "Sicilian pastry filled with sweet ricotta cheese and chocolate chips",
+                "img_url": "https://images.unsplash.com/photo-1625938398962-a5fe49775142?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+                "ratings": 5,
+                "method": "This is a delicious and simple Italian bread that is perfect for snacking or as an accompaniment to a meal. To make the focaccia, mix flour, yeast, salt, and water in a bowl until a dough forms. Knead the dough for 10-15 minutes until it is smooth and elastic. Let the dough rise for 1-2 hours in a warm place. Once it has risen, shape the dough into a large circle and top with sliced tomatoes, olives, and herbs. Bake the focaccia in the oven at 400°F for 20-25 minutes until golden brown. In a separate pan, cook the pancetta or guanciale until crispy and then add chopped onions and garlic.",
+                "ingredients": [
+                    "pastry shells",
+                    "ricotta cheese",
+                    "chocolate chips",
+                    "powdered sugar"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bianchi, Marco",
+        "description": "Chef Marco Bianchi has been mastering the art of Italian cuisine for over 20 years.",
+        "chef_img_url": "https://images.unsplash.com/photo-1611787111706-6869a8c478da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+        "years_of_experience": 20,
+        "likes": 10000,
+        "number_of_recipes": 42,
+        "recipes": [
+            {
+                "name": "Osso Buco",
+                "origin": "Italy",
+                "description": "Milanese specialty of braised veal shanks in a white wine and tomato sauce",
+                "img_url": "https://images.unsplash.com/photo-1543738066-f1b819c5f69d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1118&q=80",
+                "ratings": 4.5,
+                "method": "This is a vegetarian twist on traditional meatballs that is bursting with flavor. To make the meatballs, roast eggplant in the oven until tender, then mash it with breadcrumbs, parmesan cheese, egg, and seasonings. Form the mixture into balls and fry them in a pan until golden brown. Serve the eggplant meatballs with marinara sauce and fresh basil.",
+                "ingredients": [
+                    "veal shanks",
+                    "white wine",
+                    "tomatoes",
+                    "onions",
+                    "carrots",
+                    "celery"
+                ]
+            },
+            {
+                "name": "Gnocchi alla Sorrentina",
+                "origin": "Italy",
+                "description": "Potato dumplings baked with tomato sauce and mozzarella cheese",
+                "img_url": "https://images.unsplash.com/photo-1579349443343-73da56a71a20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+                "ratings": 4.9,
+                "method": "This a classic dish that hails from the town of Amatrice in Italy & is made with a tomato-based sauce, pancetta or guanciale, and pecorino cheese. To start, cook the pasta in salted boiling water until al dente. In a separate pan, cook the pancetta or guanciale until crispy and then add chopped onions and garlic. Once the onions are translucent, add canned tomatoes and let the sauce simmer for 15-20 minutes. Add the cooked pasta to the sauce and mix well. Serve with grated pecorino cheese.",
+                "ingredients": [
+                    "potatoes",
+                    "flour",
+                    "tomato sauce",
+                    "mozzarella cheese"
+                ]
+            },
+            {
+                "name": "Torta della Nonna",
+                "origin": "Italy",
+                "description": "Traditional Tuscan dessert with a custard filling and topped with pine nuts and powdered sugar",
+                "img_url": "https://images.unsplash.com/photo-1654171571023-5269565beb71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "ratings": 5,
+                "method": "This is a vegetarian twist on traditional meatballs that is bursting with flavor. To make the meatballs, roast eggplant in the oven until tender, then mash it with breadcrumbs, parmesan cheese, egg, and seasonings. Form the mixture into balls and fry them in a pan until golden brown. Serve the eggplant meatballs with marinara sauce and fresh basil.",
+                "ingredients": [
+                    "pastry dough",
+                    "custard",
+                    "pine nuts",
+                    "powdered sugar"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Romano, Lucia",
+        "description": "Chef Lucia Romano is an expert in Southern Italian cuisine, with a focus on the flavors of Naples and Campania.",
+        "chef_img_url": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+        "years_of_experience": 15,
+        "likes": 8000,
+        "number_of_recipes": 15,
+        "recipes": [
+            {
+                "name": "Spaghetti alle Vongole",
+                "origin": "Italy",
+                "description": "Neapolitan pasta dish with clams, garlic, and white wine",
+                "img_url": "https://images.unsplash.com/photo-1547558840-8ad6c8e662a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "ratings": 5,
+                "method": "This is a vegetarian twist on traditional meatballs that is bursting with flavor. To make the meatballs, roast eggplant in the oven until tender, then mash it with breadcrumbs, parmesan cheese, egg, and seasonings. Form the mixture into balls and fry them in a pan until golden brown. Serve the eggplant meatballs with marinara sauce and fresh basil.",
+                "ingredients": [
+                    "spaghetti",
+                    "clams",
+                    "garlic",
+                    "white wine"
+                ]
+            },
+            {
+                "name": "Pollo alla Cacciatora",
+                "origin": "Italy",
+                "description": "Hunter-style chicken stew with tomatoes, onions, and bell peppers",
+                "img_url": "https://images.unsplash.com/photo-1516100882582-96c3a05fe590?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "ratings": 4.5,
+                "method": "A classic pasta dish that hails from the town of Amatrice in Italy. This dish is made with a tomato-based sauce, pancetta or guanciale, and pecorino cheese. To start, cook the pasta in salted boiling water until al dente. In a separate pan, cook the pancetta or guanciale until crispy and then add chopped onions and garlic. Once the onions are translucent, add canned tomatoes and let the sauce simmer for 15-20 minutes. Add the cooked pasta to the sauce and mix well. Serve with grated pecorino cheese.",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "onions",
+                    "bell peppers"
+                ]
+            },
+            {
+                "name": "Baba al Rhum",
+                "origin": "Italy",
+                "description": "Rum-soaked sponge cake from Naples",
+                "img_url": "https://images.unsplash.com/photo-1667207402758-c69305623ea0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ratings": 5,
+                "method": "a delicious and simple Italian bread that is perfect for snacking or as an accompaniment to a meal. To make the focaccia, mix flour, yeast, salt, and water in a bowl until a dough forms. Knead the dough for 10-15 minutes until it is smooth and elastic. Let the dough rise for 1-2 hours in a warm place. Once it has risen, shape the dough into a large circle and top with sliced tomatoes, olives, and herbs. Bake the focaccia in the oven at 400°F for 20-25 minutes until golden brown.",
+                "ingredients": [
+                    "sponge cake",
+                    "rum",
+                    "whipped cream"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Russo, Marco",
+        "description": "Chef Marco Russo is an expert in Italian cuisine with over 20 years of experience in the culinary industry.",
+        "chef_img_url": "https://images.unsplash.com/photo-1518148750009-25b2522df9c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "years_of_experience": 20,
+        "likes": 7500,
+        "number_of_recipes": 30,
+        "recipes": [
+            {
+                "name": "Spaghetti alla Puttanesca",
+                "origin": "Italy",
+                "description": "Salty, tangy spaghetti dish with tomatoes, olives, capers, and anchovies",
+                "img_url": "https://images.unsplash.com/photo-1610817153377-e54299ffdb1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
+                "ratings": 4.8,
+                "method": "This is a vegetarian twist on traditional meatballs that is bursting with flavor. To make the meatballs, roast eggplant in the oven until tender, then mash it with breadcrumbs, parmesan cheese, egg, and seasonings. Form the mixture into balls and fry them in a pan until golden brown. Serve the eggplant meatballs with marinara sauce and fresh basil.",
+                "ingredients": [
+                    "spaghetti",
+                    "tomatoes",
+                    "olives",
+                    "capers",
+                    "anchovies"
+                ]
+            },
+            {
+                "name": "Osso Buco",
+                "origin": "Italy",
+                "description": "Slow-cooked veal shanks with vegetables and gremolata",
+                "img_url": "https://images.unsplash.com/photo-1654155291957-b80e496d0a3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+                "ratings": 5,
+                "method": " This is a delicious and simple Italian bread that is perfect for snacking or as an accompaniment to a meal. To make the focaccia, mix flour, yeast, salt, and water in a bowl until a dough forms. Knead the dough for 10-15 minutes until it is smooth and elastic. Let the dough rise for 1-2 hours in a warm place. Once it has risen, shape the dough into a large circle and top with sliced tomatoes, olives, and herbs. Bake the focaccia in the oven at 400°F for 20-25 minutes until golden brown.",
+                "ingredients": [
+                    "veal shanks",
+                    "carrots",
+                    "celery",
+                    "onion",
+                    "tomatoes",
+                    "lemon zest",
+                    "parsley"
+                ]
+            },
+            {
+                "name": "Panna Cotta",
+                "origin": "Italy",
+                "description": "Creamy, silky dessert made with cream, sugar, and gelatin",
+                "img_url": "https://images.unsplash.com/photo-1581228258201-fe6e5861d1f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ratings": 4.8,
+                "method": "A classic vegetarian pasta dish that hails from the town of Amatrice in Italy. This dish is made with a tomato-based sauce, pancetta or guanciale, and pecorino cheese. To start, cook the pasta in salted boiling water until al dente. In a separate pan, cook the pancetta or guanciale until crispy and then add chopped onions and garlic. Once the onions are translucent, add canned tomatoes and let the sauce simmer for 15-20 minutes. Add the cooked pasta to the sauce and mix well. Serve with grated pecorino cheese.",
+                "ingredients": [
+                    "heavy cream",
+                    "sugar",
+                    "gelatin",
+                    "vanilla extract"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Conti, Lucia",
+        "description": "Chef Lucia Conti is an expert in regional Italian cuisine and has been cooking for over 15 years.",
+        "chef_img_url": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "years_of_experience": 15,
+        "likes": 6000,
+        "number_of_recipes": 55,
+        "recipes": [
+            {
+                "name": "Spaghetti alla Carbonara",
+                "origin": "Italy",
+                "description": "Traditional Roman pasta dish with eggs, pancetta, and Parmesan cheese",
+                "img_url": "https://images.unsplash.com/photo-1625944525803-d510d5a4a262?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=829&q=80",
+                "ratings": 4,
+                "method": " This is a vegetarian twist on traditional meatballs that is bursting with flavor. To make the meatballs, roast eggplant in the oven until tender, then mash it with breadcrumbs, parmesan cheese, egg, and seasonings. Form the mixture into balls and fry them in a pan until golden brown. Serve the eggplant meatballs with marinara sauce and fresh basil.",
+                "ingredients": [
+                    "spaghetti",
+                    "eggs",
+                    "pancetta",
+                    "Parmesan cheese"
+                ]
+            },
+            {
+                "name": "Pizza Margherita",
+                "origin": "Italy",
+                "description": "Classic Neapolitan pizza with tomato sauce, mozzarella, and basil",
+                "img_url": "https://plus.unsplash.com/premium_photo-1666799069159-8d7ca87918d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ratings": 4.5,
+                "method": "This is a classic pasta dish that hails from the town of Amatrice in Italy. This dish is made with a tomato-based sauce, pancetta or guanciale, and pecorino cheese. To start, cook the pasta in salted boiling water until al dente. In a separate pan, cook the pancetta or guanciale until crispy and then add chopped onions and garlic. Once the onions are translucent, add canned tomatoes and let the sauce simmer for 15-20 minutes. Add the cooked pasta to the sauce and mix well. Serve with grated pecorino cheese.",
+                "ingredients": [
+                    "pizza dough",
+                    "tomato sauce",
+                    "mozzarella cheese",
+                    "fresh basil"
+                ]
+            },
+            {
+                "name": "Torta della Nonna",
+                "origin": "Italy",
+                "description": "Grandma's cake made with pastry cream, pine nuts, and lemon zest",
+                "img_url": "https://images.unsplash.com/photo-1625944226626-9bd664656506?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1022&q=80",
+                "ratings": 5,
+                "method": "This is a delicious and simple Italian bread that is perfect for snacking or as an accompaniment to a meal. To make the focaccia, mix flour, yeast, salt, and water in a bowl until a dough forms. Knead the dough for 10-15 minutes until it is smooth and elastic. Let the dough rise for 1-2 hours in a warm place. Once it has risen, shape the dough into a large circle and top with sliced tomatoes, olives, and herbs. Bake the focaccia in the oven at 400°F for 20-25 minutes until golden brown.",
+                "ingredients": [
+                    "pastry dough",
+                    "pastry cream",
+                    "pine nuts",
+                    "lemon zest"
+                ]
+            }
+        ]
+    }
+]
